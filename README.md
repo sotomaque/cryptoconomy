@@ -1,6 +1,6 @@
-# crypto-markets 
+# cryptoconomy 
 
-A react-native cryptomarket ticker using available api's. Can be found in the iOS app store under the name Tokendex 
+A react-native cryptomarket ticker using available api's. 
 
 
 ## Requirements
